@@ -1,14 +1,14 @@
-**Анализ банковских данных**
+# **Анализ банковских данных**
 
-**Описание проекта** 
+### **Описание проекта** 
 
 Исследовано влияние семейного положения и количества детей на погашение кредита в срок на основе данных банка. Обработаны пропуски, заменены типы данных, удалены дубликаты и категоризированы данные.
 
-**Задача** 
+### **Задача** 
 
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.
 
-**Данные**
+### **Данные**
 
 * количество детей в семье
 * общий трудовой стаж в днях
@@ -24,23 +24,23 @@
 * цель получения кредита
 
 
-**Используемый стек**
+### **Используемый стек**
 
 pandas 
 
 
 
-**Banking data analysis**
+# **Banking data analysis**
 
-**Project Description**
+### **Project Description**
 
 The influence of marital status and the number of children on loan repayment on time was studied based on bank data. Processed gaps, replaced data types, removed duplicates and categorized data.
 
-**Task**
+### **Task**
 
 Based on statistics on clients’ solvency, investigate whether the client’s marital status and number of children influence the fact of repaying the loan on time.
 
-**Data**
+### **Data**
 
 * number of children in the family
 * total length of service in days
@@ -56,7 +56,7 @@ Based on statistics on clients’ solvency, investigate whether the client’s m
 * purpose of obtaining a loan
 
 
-**Stack used**
+### **Stack used**
 
 pandas
 
