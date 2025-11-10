@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a Data Engineer at Sber.
+- 🔭 I’m currently working as a Data Analyst at Sber.
 - 📚 I'm a master degree student of HSE (Big Data Analytics).
 - 🌱 I’m learning advanced data visualization and other techniques.
 - 📚 I enjoy reading business, psychology, and classic books.
